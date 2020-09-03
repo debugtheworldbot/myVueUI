@@ -1,0 +1,23 @@
+{
+  "name": "vueui",
+  "version": "0.0.1",
+  "description": "a ui design ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugtheworldbot/myVueUI.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "TmIgVl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debugtheworldbot/myVueUI/issues"
+  },
+  "homepage": "https://github.com/debugtheworldbot/myVueUI#readme"
+}
