@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/debugtheworldbot/myVueUI/issues"
   },
-  "homepage": "https://github.com/debugtheworldbot/myVueUI#readme"
+  "homepage": "https://github.com/debugtheworldbot/myVueUI#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
