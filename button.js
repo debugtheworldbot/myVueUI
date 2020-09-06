@@ -1,7 +1,7 @@
 Vue.component('t-button',{
     template:`
     <button class="t-button">
-    hi
+    好兄弟
     </button>
     `
 })
